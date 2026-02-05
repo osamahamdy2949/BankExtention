@@ -1,9 +1,3 @@
-# BankExtention
-
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
-
 # 🏦 Bank Extension System
 ### C++ Console Application | OOP | Clean Design
 
